@@ -1,11 +1,13 @@
 <script setup lang="ts">
+
 </script>
 
 <template>
-<router-view>
-
-</router-view>
+<div>
+  底部栏
+</div>
 </template>
 
 <style scoped>
+
 </style>
